@@ -1,0 +1,5 @@
+﻿  TomliAI.cpp
+f:\projecttomli\tomliai\tomliai.cpp(31): warning C4101: 'letter': unreferenced local variable
+f:\projecttomli\tomliai\tomliai.cpp(13): warning C4101: 'z': unreferenced local variable
+f:\projecttomli\tomliai\tomliai.cpp(12): warning C4101: 'x': unreferenced local variable
+  TomliAI.vcxproj -> F:\ProjectTomli\TomliAI\Debug\TomliAI.exe
