@@ -1,2 +1,2 @@
 # TomliAI
-I created an AI and the project files for it will be stored here.
+If you want the full project, download the folder.
